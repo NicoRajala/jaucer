@@ -5,6 +5,7 @@ for information I use an abbreviation "ea", "eas" which means "Encryption Algori
 
 ---
 
+THIS SOFTWARE IS FOR EXPERIENCED USERS ONLY! IF YOU FEEL LIKE YOU DON'T KNOW HOW TO USE THE PROGRAM, THEN DON'T
 THIS SOFTWARE USES THE MIT-LICENSE. READ THE LICENSE.TXT FILE.
 
 ---
@@ -24,3 +25,5 @@ For me it was the boresome that I had one night, so I wanted to do something tha
 2. Type in the text you want to be encrypted to jaucer.
 3. A notepad opens with the encrypted code.
 4. Enjoy!
+
+For now there has been a problem when closing jaucer, that it just opens again. So to close it just press (Ctrl+Shift+Esc) and then end the process in taskmgr.
